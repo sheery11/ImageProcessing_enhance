@@ -1,0 +1,11 @@
+﻿  SmoothProcessDib.cpp
+e:\大学。\课堂。\大三\大三下\小学期\图像处理\图像增强\imageenhance\imageenhance\imageenhance\smoothprocessdib.cpp(88): warning C4244: “=”: 从“FLOAT”转换到“BYTE”，可能丢失数据
+e:\大学。\课堂。\大三\大三下\小学期\图像处理\图像增强\imageenhance\imageenhance\imageenhance\smoothprocessdib.cpp(141): warning C4244: “=”: 从“FLOAT”转换到“BYTE”，可能丢失数据
+e:\大学。\课堂。\大三\大三下\小学期\图像处理\图像增强\imageenhance\imageenhance\imageenhance\smoothprocessdib.cpp(142): warning C4244: “=”: 从“FLOAT”转换到“BYTE”，可能丢失数据
+e:\大学。\课堂。\大三\大三下\小学期\图像处理\图像增强\imageenhance\imageenhance\imageenhance\smoothprocessdib.cpp(143): warning C4244: “=”: 从“FLOAT”转换到“BYTE”，可能丢失数据
+e:\大学。\课堂。\大三\大三下\小学期\图像处理\图像增强\imageenhance\imageenhance\imageenhance\smoothprocessdib.cpp(213): warning C4101: “mid_r”: 未引用的局部变量
+e:\大学。\课堂。\大三\大三下\小学期\图像处理\图像增强\imageenhance\imageenhance\imageenhance\smoothprocessdib.cpp(213): warning C4101: “mid_g”: 未引用的局部变量
+e:\大学。\课堂。\大三\大三下\小学期\图像处理\图像增强\imageenhance\imageenhance\imageenhance\smoothprocessdib.cpp(213): warning C4101: “mid_b”: 未引用的局部变量
+e:\大学。\课堂。\大三\大三下\小学期\图像处理\图像增强\imageenhance\imageenhance\imageenhance\smoothprocessdib.cpp(203): warning C4101: “lpSrc”: 未引用的局部变量
+  ImageEnhance.vcxproj -> E:\大学。\课堂。\大三\大三下\小学期\图像处理\图像增强\ImageEnhance\ImageEnhance\Debug\ImageEnhance.exe
+  ImageEnhance.vcxproj -> E:\大学。\课堂。\大三\大三下\小学期\图像处理\图像增强\ImageEnhance\ImageEnhance\Debug\ImageEnhance.pdb (Full PDB)
